@@ -14,7 +14,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 Let’s Dive into the concept--------------------------------------->
-Suppose V-mart is a e-commerce company located in the heart of Kolkata city. They sell clothes online, but also have in-store style and clothing advice sessions.Indians & mostly foreign Customers walk into these sessions, meet with a personal stylist, then place orders for clothing either their mobile app or on the website of V-mart.
+Suppose V-mart is a e-commerce company located in the heart of Kolkata city. They sell clothes online, but also have in-store style and clothing advice sessions.Indians & mostly foreign Customers walk into these sessions, meet with their stylist, then place orders for clothing either their mobile app or on the website of V-mart.
 
 
 Now suppose V-mart hire you as a data scientist to take a business decision.
